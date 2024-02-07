@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KietAPCS
-- 👀 I’m interested in Computer Science and Web
+- 👀 I’m interested in Computer Science and Web Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Backend and Frontend
 - 📫 How to reach me : phantuankiet688@gmail.com
