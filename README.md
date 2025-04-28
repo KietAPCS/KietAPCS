@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KietAPCS
-- 👀 I’m interested in Computer Science and Artificial Intelligence
+- 👀 I’m interested in Computer Science and AI/ML
 - 🌱 I’m currently learning at APCS, VNU-HCM
 - 💞️ I’m looking to collaborate on Computer Science field
 - 📫 How to reach me : phantuankiet688@gmail.com
-- 😄 Pronouns: K-I-E-T or B-R-I-L-L (my nickname)
+- 😄 Pronouns: K-I-E-T
 - ⚡ Fun fact: Love coffee and playing guitar
 
 <!---
