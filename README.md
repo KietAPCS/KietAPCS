@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KietAPCS
-- 👀 I’m interested in Computer Science and AI/ML
+- 👀 I’m interested in SWE and AI/ML
 - 🌱 I’m currently learning at APCS, VNU-HCM
 - 💞️ I’m looking to collaborate on Computer Science field
 - 📫 How to reach me : phantuankiet688@gmail.com
